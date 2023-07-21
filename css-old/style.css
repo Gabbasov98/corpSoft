@@ -1,8 +1,8 @@
-﻿@import"css/_normalize.min.css";
+﻿@import"_normalize.min.css";
 @font-face {
     font-family: "Gilroy";
-    src: url("fonts/GilroyLight/Gilroy-Light.eot");
-    src: url("fonts/GilroyLight/Gilroy-Light.eot?#iefix") format("embedded-opentype"), url("fonts/GilroyLight/Gilroy-Light.woff") format("woff"), url("fonts/GilroyLight/Gilroy-Light.ttf") format("truetype");
+    src: url("../fonts/GilroyLight/Gilroy-Light.eot");
+    src: url("../fonts/GilroyLight/Gilroy-Light.eot?#iefix") format("embedded-opentype"), url("fonts/GilroyLight/Gilroy-Light.woff") format("woff"), url("fonts/GilroyLight/Gilroy-Light.ttf") format("truetype");
     font-weight: 300;
     font-style: normal;
     font-display: swap
@@ -10,8 +10,8 @@
 
 @font-face {
     font-family: "Gilroy";
-    src: url("fonts/GilroyRegular/Gilroy-Regular.eot");
-    src: url("fonts/GilroyRegular/Gilroy-Regular.eot?#iefix") format("embedded-opentype"), url("fonts/GilroyRegular/Gilroy-Regular.woff") format("woff"), url("fonts/GilroyRegular/Gilroy-Regular.ttf") format("truetype");
+    src: url("../fonts/GilroyRegular/Gilroy-Regular.eot");
+    src: url("../fonts/GilroyRegular/Gilroy-Regular.eot?#iefix") format("embedded-opentype"), url("fonts/GilroyRegular/Gilroy-Regular.woff") format("woff"), url("fonts/GilroyRegular/Gilroy-Regular.ttf") format("truetype");
     font-weight: 400;
     font-style: normal;
     font-display: swap
@@ -19,8 +19,8 @@
 
 @font-face {
     font-family: "Gilroy";
-    src: url("fonts/GilroyMedium/Gilroy-Medium.eot");
-    src: url("fonts/GilroyMedium/Gilroy-Medium.eot?#iefix") format("embedded-opentype"), url("fonts/GilroyMedium/Gilroy-Medium.woff") format("woff"), url("fonts/GilroyMedium/Gilroy-Medium.ttf") format("truetype");
+    src: url("../fonts/GilroyMedium/Gilroy-Medium.eot");
+    src: url("../fonts/GilroyMedium/Gilroy-Medium.eot?#iefix") format("embedded-opentype"), url("fonts/GilroyMedium/Gilroy-Medium.woff") format("woff"), url("fonts/GilroyMedium/Gilroy-Medium.ttf") format("truetype");
     font-weight: 500;
     font-style: normal;
     font-display: swap
@@ -28,8 +28,8 @@
 
 @font-face {
     font-family: "Gilroy";
-    src: url("fonts/GilroySemiBold/Gilroy-SemiBold.eot");
-    src: url("fonts/GilroySemiBold/Gilroy-SemiBold.eot?#iefix") format("embedded-opentype"), url("fonts/GilroySemiBold/Gilroy-SemiBold.woff") format("woff"), url("fonts/GilroySemiBold/Gilroy-SemiBold.ttf") format("truetype");
+    src: url("../fonts/GilroySemiBold/Gilroy-SemiBold.eot");
+    src: url("../fonts/GilroySemiBold/Gilroy-SemiBold.eot?#iefix") format("embedded-opentype"), url("fonts/GilroySemiBold/Gilroy-SemiBold.woff") format("woff"), url("fonts/GilroySemiBold/Gilroy-SemiBold.ttf") format("truetype");
     font-weight: 600;
     font-style: normal;
     font-display: swap
@@ -37,8 +37,8 @@
 
 @font-face {
     font-family: "Gilroy";
-    src: url("fonts/GilroyBold/Gilroy-Bold.eot");
-    src: url("fonts/GilroyBold/Gilroy-Bold.eot?#iefix") format("embedded-opentype"), url("fonts/GilroyBold/Gilroy-Bold.woff") format("woff"), url("fonts/GilroyBold/Gilroy-Bold.ttf") format("truetype");
+    src: url("../fonts/GilroyBold/Gilroy-Bold.eot");
+    src: url("../fonts/GilroyBold/Gilroy-Bold.eot?#iefix") format("embedded-opentype"), url("fonts/GilroyBold/Gilroy-Bold.woff") format("woff"), url("fonts/GilroyBold/Gilroy-Bold.ttf") format("truetype");
     font-weight: 700;
     font-style: normal;
     font-display: swap
@@ -46,8 +46,8 @@
 
 @font-face {
     font-family: "MuseoSansCyrl";
-    src: url("fonts/MuseoSansCyrl-300/MuseoSansCyrl-300.eot");
-    src: url("fonts/MuseoSansCyrl-300/MuseoSansCyrl-300.eot?#iefix") format("embedded-opentype"), url("fonts/MuseoSansCyrl-300/MuseoSansCyrl-300.woff") format("woff"), url("fonts/MuseoSansCyrl-300/MuseoSansCyrl-300.ttf") format("truetype");
+    src: url("../fonts/MuseoSansCyrl-300/MuseoSansCyrl-300.eot");
+    src: url("../fonts/MuseoSansCyrl-300/MuseoSansCyrl-300.eot?#iefix") format("embedded-opentype"), url("fonts/MuseoSansCyrl-300/MuseoSansCyrl-300.woff") format("woff"), url("fonts/MuseoSansCyrl-300/MuseoSansCyrl-300.ttf") format("truetype");
     font-weight: 300;
     font-style: normal;
     font-display: swap
@@ -55,8 +55,8 @@
 
 @font-face {
     font-family: "MuseoSansCyrl";
-    src: url("fonts/MuseoSansCyrl-500/MuseoSansCyrl-500.eot");
-    src: url("fonts/MuseoSansCyrl-500/MuseoSansCyrl-500.eot?#iefix") format("embedded-opentype"), url("fonts/MuseoSansCyrl-500/MuseoSansCyrl-500.woff") format("woff"), url("fonts/MuseoSansCyrl-500/MuseoSansCyrl-500.ttf") format("truetype");
+    src: url("../fonts/MuseoSansCyrl-500/MuseoSansCyrl-500.eot");
+    src: url("../fonts/MuseoSansCyrl-500/MuseoSansCyrl-500.eot?#iefix") format("embedded-opentype"), url("fonts/MuseoSansCyrl-500/MuseoSansCyrl-500.woff") format("woff"), url("fonts/MuseoSansCyrl-500/MuseoSansCyrl-500.ttf") format("truetype");
     font-weight: 500;
     font-style: normal;
     font-display: swap
